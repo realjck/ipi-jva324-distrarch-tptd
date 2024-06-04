@@ -1,4 +1,4 @@
-package com.ipi.jva324;
+package com.ipi.jva324.stock;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ipi.jva324.commande.model.Commande;
@@ -13,7 +13,6 @@ import org.springframework.hateoas.MediaTypes;
 import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
 
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 

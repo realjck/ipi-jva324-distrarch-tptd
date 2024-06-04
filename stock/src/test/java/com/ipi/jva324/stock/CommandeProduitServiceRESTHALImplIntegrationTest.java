@@ -1,6 +1,5 @@
-package com.ipi.jva324.commande;
+package com.ipi.jva324.stock;
 
-import com.ipi.jva324.Jva324Application;
 import com.ipi.jva324.commande.service.CommandeProduitServiceRESTHALImpl;
 import com.ipi.jva324.stock.model.ProduitEnStock;
 import org.junit.jupiter.api.Assertions;

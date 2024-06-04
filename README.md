@@ -95,7 +95,7 @@ Configurer l'application pour s'en servir : dans ```main/resources/application.p
 
 D'abord (et après tout changement d'interface utilisateur React.js) lancer une compilation complète : ```mvn clean install-DskipTests```
 
-lancer la classe com.ipi.jva324.Jva324Application
+lancer la classe com.ipi.jva324.stock.Jva324Application
 - dans l'IDE
     - IntelliJ : l'ouvrir et cliquer sur la flèche verte sur sa gauche
     - Eclipse : clic droit > Run as application),
